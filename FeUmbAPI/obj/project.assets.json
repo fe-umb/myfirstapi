@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos C#\\FeUmbAPI\\FeUmbAPI\\FeUmbAPI.csproj",
+      "projectUniqueName": "C:\\myfirstapi\\myfirstapi\\FeUmbAPI\\FeUmbAPI.csproj",
       "projectName": "FeUmbAPI",
-      "projectPath": "D:\\Projetos C#\\FeUmbAPI\\FeUmbAPI\\FeUmbAPI.csproj",
+      "projectPath": "C:\\myfirstapi\\myfirstapi\\FeUmbAPI\\FeUmbAPI.csproj",
       "packagesPath": "C:\\Users\\fernanda.umberto\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos C#\\FeUmbAPI\\FeUmbAPI\\obj\\",
+      "outputPath": "C:\\myfirstapi\\myfirstapi\\FeUmbAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fernanda.umberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
